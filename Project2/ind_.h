@@ -1,0 +1,1 @@
+double B1(float, float, int);
